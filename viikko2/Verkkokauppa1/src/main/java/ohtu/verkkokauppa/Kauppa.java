@@ -8,9 +8,9 @@ public class Kauppa {
     private Viitegeneraattori viitegeneraattori;
 
     public Kauppa(Varasto varasto, Pankki pankki, Viitegeneraattori viitegeneraattori) {
-        this.varasto = Varasto.getInstance();
-        this.pankki = Pankki.getInstance();
-        this.viitegeneraattori = Viitegeneraattori.getInstance();
+        this.varasto = varasto;
+        this.pankki = pankki;
+        this.viitegeneraattori = viitegeneraattori;
         kaupanTili = "33333-44455";
     }
 
