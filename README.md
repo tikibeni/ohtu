@@ -1,4 +1,4 @@
-# ohtu-s2020
+# Ohjelmistotuotanto 2020
 
 ## Viikko 1
 
