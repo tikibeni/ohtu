@@ -14,6 +14,14 @@
 
 [Viikko 2: 7-8](https://github.com/tikibeni/ohtu-s2020)
 
+- [branch1](https://github.com/tikibeni/ohtu-s2020/tree/haara1)
+
+- [branch2](https://github.com/tikibeni/ohtu-s2020/tree/haara2)
+
+- [merge1](https://github.com/tikibeni/ohtu-s2020/blob/main/merge.txt)
+
+- [merge2](https://github.com/tikibeni/ohtu-s2020/blob/main/mergecommit.txt)
+
 [Viikko 2: 9-12](https://github.com/tikibeni/ohtu-s2020/tree/main/viikko2/Verkkokauppa1)
 
 ## Viikko 3
