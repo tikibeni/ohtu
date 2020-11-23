@@ -1,4 +1,4 @@
-# Ohjelmistotuotanto 2020
+# Ohjelmistotuotanto 2020 suoritus by tikibeni
 
 ## Viikko 1
 
@@ -14,4 +14,24 @@
 
 [Viikko 2: 7-8](https://github.com/tikibeni/ohtu-s2020)
 
+- [branch1](https://github.com/tikibeni/ohtu-s2020/tree/haara1)
+
+- [branch2](https://github.com/tikibeni/ohtu-s2020/tree/haara2)
+
+- [merge1](https://github.com/tikibeni/ohtu-s2020/blob/main/merge.txt)
+
+- [merge2](https://github.com/tikibeni/ohtu-s2020/blob/main/mergecommit.txt)
+
 [Viikko 2: 9-12](https://github.com/tikibeni/ohtu-s2020/tree/main/viikko2/Verkkokauppa1)
+
+## Viikko 3
+
+[Viikko 3: 1-3](https://github.com/tikibeni/ohtu-s2020/tree/main/viikko3/nhlreader)
+
+[Viikko 3: 4](https://github.com/tikibeni/ohtu-s2020/tree/main/viikko3/HelloCucumber)
+
+[Viikko 3: 5-6](https://github.com/tikibeni/ohtu-s2020/tree/main/viikko3/LoginCucumber)
+
+- [UML](https://github.com/tikibeni/ohtu-s2020/blob/main/viikko3/LoginCucumber/documentation/UML.png)
+
+[Viikko 3: 8-11](https://github.com/tikibeni/ohtu-s2020/tree/main/viikko3/WebLogin)
