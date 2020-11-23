@@ -35,3 +35,15 @@
 - [UML](https://github.com/tikibeni/ohtu-s2020/blob/main/viikko3/LoginCucumber/documentation/UML.png)
 
 [Viikko 3: 8-11](https://github.com/tikibeni/ohtu-s2020/tree/main/viikko3/WebLogin)
+
+## Viikko 4
+
+[Viikko 4: 1](https://github.com/tikibeni/ohtu-s2020/tree/main/viikko4/MockitoDemo)
+
+[Viikko 4: 2](https://github.com/tikibeni/ohtu-s2020/tree/main/viikko4/MaksukorttiMockito)
+
+[Viikko 4: 3-4](https://github.com/tikibeni/ohtu-s2020/tree/main/viikko2/Verkkokauppa1)
+
+[Viikko 4: 5](https://github.com/tikibeni/ohtu-s2020/tree/main/viikko4/IntJoukkoSovellus)
+
+[Viikko 4: 6](https://github.com/tikibeni/ohtu-s2020/tree/main/viikko4/Tennis)
