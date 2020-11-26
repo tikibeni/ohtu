@@ -47,3 +47,11 @@
 [Viikko 4: 5](https://github.com/tikibeni/ohtu-s2020/tree/main/viikko4/IntJoukkoSovellus)
 
 [Viikko 4: 6](https://github.com/tikibeni/ohtu-s2020/tree/main/viikko4/Tennis)
+
+## Viikko 5
+
+[Viikko 5: 1](https://github.com/tikibeni/ohtu-s2020/tags)
+
+[Viikko 5: 4-5](https://github.com/tikibeni/ohtu-s2020/tree/main/viikko5/LaskinFX11)
+
+[Viikko 5: 6](https://github.com/tikibeni/ohtu-s2020/blob/main/retro.md)
