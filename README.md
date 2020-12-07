@@ -55,3 +55,7 @@
 [Viikko 5: 4-5](https://github.com/tikibeni/ohtu-s2020/tree/main/viikko5/LaskinFX11)
 
 [Viikko 5: 6](https://github.com/tikibeni/ohtu-s2020/blob/main/retro.md)
+
+## Viikko 6
+
+[Viikko 6: 2-5](https://github.com/tikibeni/ohtu-s2020/tree/main/viikko6/QueryLanguage)
