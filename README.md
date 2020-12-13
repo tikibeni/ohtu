@@ -59,3 +59,7 @@
 ## Viikko 6
 
 [Viikko 6: 2-5](https://github.com/tikibeni/ohtu-s2020/tree/main/viikko6/QueryLanguage)
+
+## Viikko 7
+
+[Viikko 7: 3](https://github.com/tikibeni/ohtu-s2020/tree/main/viikko7/KiviPaperiSakset)
