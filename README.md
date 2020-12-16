@@ -1,4 +1,4 @@
-# Ohjelmistotuotanto 2020 suoritus by tikibeni
+# Ohjelmistotuotanto syksy 2020
 
 ## Viikko 1
 
